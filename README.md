@@ -2,7 +2,7 @@
 
 Autenticação e autorização com Spring Security
 
-    Sistema de login, logout e controle de acesso, utilizando banco de dados e criptografia md5.
+    Sistema de login, logout e controle de acesso.
 
 ---
 Autenticação e autorização com Spring Security
