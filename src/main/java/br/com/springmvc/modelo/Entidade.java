@@ -8,6 +8,8 @@ import javax.persistence.Table;
 @Entity
 @Table(name = "entidade")
 public class Entidade {
+	
+	public Entidade() {}
 
 	@Id
 	@GeneratedValue
