@@ -1,11 +1,8 @@
 # Howtos
 
-Autenticação e autorização com Spring Security
-
-    Sistema de login, logout e controle de acesso.
+Autenticação e autorização com Spring Security: sistema de login, logout e controle de acesso.
 
 ---
-Autenticação e autorização com Spring Security
 
 pom.xml
 ``` xml
